@@ -21,6 +21,7 @@ dropdown list. It shows the time in digital format.
 -   Open index.html with the browser
 
 ## Screenshots
-![screenshot](https://user-images.githubusercontent.com/54902077/94868894-add9c100-0461-11eb-965a-a534000c5c1d.png)
+![clock](https://user-images.githubusercontent.com/54902077/94869087-2c366300-0462-11eb-8837-6c5105e72dfb.png)
+![map](https://user-images.githubusercontent.com/54902077/94869085-2b053600-0462-11eb-8e26-d4d0d2b68e83.png)
 
 
